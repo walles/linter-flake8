@@ -75,7 +75,7 @@
     "fs-plus": "^2.9.3"
   },
   "devDependencies": {
-    "eslint": "^3.8.0",
+    "eslint": "^3.10.2",
     "eslint-config-airbnb-base": "^9.0.0",
     "eslint-plugin-import": "^2.0.1"
   },
